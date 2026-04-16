@@ -13,8 +13,6 @@ Sistema **low-code** para **gerenciamento de assinaturas, contratos e produtos**
 
 ## Demonstração (fluxos e regras em ação)
 
-> Os GIFs abaixo devem estar em `assets/readme/`.
-
 ### Fluxo principal (Home → detalhes)
 
 O usuário inicia no **dashboard**, busca/filtra assinaturas e navega para a **página de detalhes** para editar contrato, pagamentos e produtos.
