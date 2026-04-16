@@ -48,19 +48,6 @@ Visão geral do fluxo na segunda página, com edição guiada e regras aplicadas
 
 ![Página de detalhes](assets/readme/atualizacao-assinatura.gif)
 
----
-
-## Funcionalidades principais
-
-- **Dashboard de assinaturas** com busca, filtros e listagem central.
-- **Controle dinâmico de status** direto na tabela (ativar, bloquear, enviar segunda via).
-- **Edição detalhada** da assinatura selecionada:
-  - **Contrato** (ex.: data de expiração).
-  - **Métodos de pagamento**.
-  - **Produtos** do contrato.
-
----
-
 ## Estrutura do App (Appsmith)
 
 ### Páginas
